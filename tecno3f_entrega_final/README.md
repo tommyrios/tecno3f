@@ -1,5 +1,4 @@
-# Gestor de Stock 
-# Tomás Angel Rios
+# Gestor de Stock - Tomás Angel Rios
 
 Esta aplicación fue creada como entrega final del curso "Python Intermedio 1-2024" de TECNO 3F
 Se trata de un gestor de existencias desarrollado en Python con la interfaz gráfica Tkinter y una base de datos SQLite. 
