@@ -6,7 +6,7 @@ La aplicación permite la gestión de productos, registro de transacciones de co
 Se incluye el script, y la base de datos ya creada.
 
 # Notas adicionales
-Además de las bibliotecas vistas en el curso, se hizo uso de 're', para poder hacer uso de expresiones regulares. Esta biblioteca no necesita
+Además de las bibliotecas vistas en el curso, se hizo uso de 're' para poder implementar expresiones regulares. Esta biblioteca no necesita
 ser instalada por separado, ya que viene incluida con la instalación estándar de Python.
 
 La base de datos viene incluida y se pueden limpiar todos sus registros mediante la función 'Limpiar Base de datos'. Si esta no existiera, se crearía 
